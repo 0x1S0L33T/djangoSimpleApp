@@ -1,0 +1,3 @@
+# djangoSimpleApp
+in order to learn and practice some back-end technology,
+I coded some simple API with django, voilà an example...
